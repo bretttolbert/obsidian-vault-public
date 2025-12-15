@@ -1,0 +1,12 @@
+# Essential Android apps
+- AnkiDroid
+- Backcountry navigator
+- Backpacker GPS
+- enbrighten
+- FE file explorer 
+- Google Drive
+- Pulsar+
+- nova7
+- obsidian
+- QuickEdit+
+- Strava 
