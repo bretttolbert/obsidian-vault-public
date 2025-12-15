@@ -6,9 +6,9 @@
 ```
 
 ###### What if USB debugging keeps disconnecting
-Reboot phone, disabled USB debugging then reenable it.
+Reboot phone, disabled USB debugging then re-enable it.
 
-###### What if `adb devices` lists device as *unathorized*
+###### What if `adb devices` lists device as *unauthorized*
 Look for a pop-up on phone to allow USB debugging
 
 ###### Reset android media scan database
