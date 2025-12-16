@@ -1,11 +1,12 @@
 # Essential Android apps
 - AnkiDroid
+- AutoSync (MetaCtrl)
 - Backcountry navigator
 - Backpacker GPS
 - enbrighten
 - FE file explorer 
 - Google Drive
-- Pulsar+
+- PowerAmp
 - nova7
 - obsidian
 - QuickEdit+
