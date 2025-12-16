@@ -6,6 +6,7 @@
 - EasyTAG
 - GIMP
 - ImageMagick
+- Lollypop
 - K3B
 - KdenLive
 - meld
@@ -14,7 +15,6 @@
 - Pandas
 - Pandoc
 - Python
-- rhythmbox
 - rsync
 - tilix
 - v4l2
