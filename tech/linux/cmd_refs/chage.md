@@ -1,4 +1,4 @@
-# chage - cahnge age - can be used to change the expiry of a user's password
+# chage - _change age_ - can be used to change the expiry of a user's password
 
 ## See also
 - [passwd](./passwd.md)
