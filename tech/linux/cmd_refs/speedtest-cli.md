@@ -20,7 +20,7 @@ Upload: 36.50 Mbit/s
 
 ```
 
-New setup (Google Fiber Jack -> TP-Link AC9700 Gigabit router -> Cat5E -> Netgear 2.5G Switch):
+New setup (Google Fiber Jack -> TP-Link BE9700 10G WAN + 4 × 2.5G Router -> Cat5E -> Netgear 2.5G Switch):
 
 ```bash
 brett@pentatonic:~$ speedtest-cli --secure
