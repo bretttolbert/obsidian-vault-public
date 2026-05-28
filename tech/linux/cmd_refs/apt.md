@@ -1,5 +1,14 @@
 # apt
 
+###### Clean apt-get lists (or how I resolved issue with apt not updating on banana pi)
+
+```bash
+$ rm -rf /var/lib/apt/lists/*
+$ apt-get clean
+$ apt-get update 
+```
+
+
 ###### create proxy.conf
 ```bash
 sudo touch /etc/apt/apt.conf.d/proxy.conf
