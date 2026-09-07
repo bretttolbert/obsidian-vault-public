@@ -12,11 +12,19 @@ java --module-path target/hello-world.jar -m com.example.app/com.example.app.Mai
 ```
 
 ###### show java system properties
+
 ```bash
 java -XshowSettings:properties
 ```
 
 ###### Set tmpdir system property
+
 ```bash
 java -Djava.io.tmpdir=/path/to/tmpdir
+```
+
+###### Find JDK path
+
+```bash
+dirname $(dirname $(readlink -f $(which javac)))
 ```
