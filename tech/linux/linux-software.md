@@ -1,0 +1,24 @@
+# Essential Linux Software
+- audacity
+- bash
+- budgie linux
+- docker
+- EasyTAG
+- GIMP
+- ImageMagick
+- Lollypop
+- K3B
+- KdenLive
+- meld
+- NGINX
+- openssl
+- Pandas
+- Pandoc
+- Python
+- rsync
+- tilix
+- v4l2
+- vim
+- vlc
+- vscode
+- wireshark

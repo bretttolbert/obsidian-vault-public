@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "autoremove",
+        "bdfproxy",
+        "dpkg",
+        "journalctl",
+        "mongoengine",
+        "pagure",
+        "rdepends",
+        "reportbug"
+    ]
+}
